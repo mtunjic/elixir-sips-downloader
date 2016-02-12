@@ -8,6 +8,11 @@ This is just a simple modification of [@leafac's](https://github.com/leafac) [ru
 
 All credit should go to him. :)
 
+Requirements
+------------
+
+Ruby version >= 2.0.0
+
 Installation
 ------------
 
